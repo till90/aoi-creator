@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+API:
+- GET /api/healthz -> Überprüft den Zustand des Dienstes
+- GET /api/example -> Gibt ein Beispiel-GeoJSON zurück
+"""
+"""
 AOI Studio – AOI zeichnen & exportieren (GeoJSON / WKT / EWKT / KML)
 
 Ziel:
